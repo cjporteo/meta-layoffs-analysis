@@ -1,9 +1,9 @@
 # Meta Layoff Analysis - November 2022
-A brief analysis into the November 2022 Meta layoffs, examining which departments were impacted the most.
+A brief analysis into the November 2022 Meta layoffs, examining which departments and levels of seniority were impacted the most.
 
 # Preface
 
-Layoffs are a personal and saddening subject. Each datapoint making up this analysis represents someone who is currently in a tough situation, and I hope that everyone affected can find strength and land on their feet.
+Layoffs are a somber and saddening subject. Each datapoint making up this analysis represents someone who is currently in a tough situation, and I hope that everyone affected can find strength and land on their feet.
 
 For the sake of anonymity of those impacted, I've removed all **PII** (Personal Identifiable Information) in the cleaned dataset that I've pushed to GitHub.
 
@@ -28,9 +28,9 @@ Following the announcement on Wednesday, a [public self-reporting MetaMates Tale
 - The department who will need the most visa support is **Engineering** (46% of laid-off engineers will require visa support)
 - Although **Recruiting** makes up the largest percentage of layoffs (26%), only 8% of them will require visa support
 
-# Assumptions
+# Assumptions and Limitations
 
-- This analysis assumes minimal selection bias in our sample, which likely isn't true. Some departments might be more/less likely to report their layoffs in the dataset, so our sample probably isn't perfectly representative of the true population (all 11,000 layoffs)
+- This analysis assumes minimal selection bias in our sample, which likely isn't true. Some departments might be more/less likely to report their layoffs in the dataset, so our sample probably isn't perfectly representative of the true population (all 11,000 layoffs).
 - There is no validation/verification when contributing to this dataset. This is evidenced by "troll" records like "Rahul Ligma" (row 1723) and "Elon Musk" (row 1710). Luckily, datapoints like this are rare and unlikely to skew our insights.
 
 # Environment Installation
